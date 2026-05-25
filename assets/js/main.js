@@ -82,6 +82,7 @@ function renderEducation(items) {
         </div>
         <p class="edu-uni">${e.university}</p>
         ${e.honor ? `<span class="edu-honor">${e.honor}</span>` : ''}
+        ${e.gpa ? `<span class="edu-gpa">GPA: ${e.gpa}</span>` : ''}
         <p class="edu-focus">${e.focus}</p>
         <p class="edu-thesis"><span class="edu-thesis-label">Thesis</span>${e.thesis}</p>
       </div>
