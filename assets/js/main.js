@@ -231,8 +231,8 @@ function initThemeToggle() {
   const btn     = document.getElementById('theme-toggle');
   const label   = document.getElementById('toggle-label');
 
-  // Restore saved preference (default: dark)
-  const saved = localStorage.getItem('portfolio-theme') || 'dark';
+  // Restore saved preference (default: light)
+  const saved = localStorage.getItem('portfolio-theme') || 'light';
   html.setAttribute('data-theme', saved);
   label.textContent = saved === 'dark' ? 'light' : 'dark';
 
