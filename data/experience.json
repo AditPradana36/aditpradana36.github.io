@@ -1,0 +1,51 @@
+[
+  {
+    "period": "Oct 2024 – Present",
+    "role": "Researcher",
+    "org": "SMART CITY, Universitas Indonesia",
+    "logo": "assets/img/sc.jpg",
+    "desc": "Conduct urban and environmental research using geospatial analysis, GIS, street-view application and spatial modeling to support urban planning related studies initiatives."
+  },
+  {
+    "period": "May 2025 – Present",
+    "role": "Project Researcher",
+    "org": "Department of Geography, Universitas Indonesia",
+    "logo": "assets/img/ui.png",
+    "desc": "Lead a university-funded research project examining climate resilience in urban green spaces by developing analytical frameworks linking spatial environments with human perception and place attachment."
+  },
+  {
+    "period": "Mar 2025 – Dec 2025",
+    "role": "Cartographer",
+    "org": "Strategic Environmental Assessment Team, West Bangka Regency – Affiliated with PPSML UI",
+    "logo": "assets/img/ppsml.png",
+    "desc": "Produced 50+ thematic maps and managed spatial datasets to support Strategic Environmental Assessment and inform regional environmental planning and policy decisions."
+  },
+  {
+    "period": "Jun 2024 – Oct 2024",
+    "role": "Research Assistant",
+    "org": "SMART CITY, Universitas Indonesia",
+    "logo": "assets/img/sc.jpg",
+    "desc": "Supported urban research projects through GIS-based spatial analysis, remote sensing, and project coordination while contributing to technical reports and academic outputs."
+  },
+  {
+    "period": "Jun 2024 – Aug 2024",
+    "role": "Teaching Assistant",
+    "org": "Department of Geography, Universitas Indonesia",
+    "logo": "assets/img/ui.png",
+    "desc": "Assisted in teaching GIS and remote sensing practical courses by guiding students in spatial analysis exercises and supporting course evaluation."
+  },
+  {
+    "period": "Mar 2024 – Oct 2024",
+    "role": "Cartographer",
+    "org": "Strategic Environmental Assessment Team, Bangka Belitung Islands Province – Affiliated with PPSML UI",
+    "logo": "assets/img/ppsml.png",
+    "desc": "Developed 40+ thematic maps and spatial visualizations to support environmental assessment and improve communication of regional spatial data."
+  },
+  {
+    "period": "Jun 2023 – Dec 2024",
+    "role": "Student Researcher",
+    "org": "Department of Geography, Universitas Indonesia",
+    "logo": "assets/img/ui.png",
+    "desc": "Conducted GIS-based research analyzing urban fire risk patterns in East Jakarta through spatial analysis, field surveys, and academic dissemination."
+  }
+]

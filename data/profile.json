@@ -1,0 +1,18 @@
+{
+  "name": "Mohammad Raditia Pradana",
+  "degree": "M.Sc.",
+  "role": "Researcher",
+  "affiliation": "SMART CITY, Universitas Indonesia",
+  "location": "Depok, Indonesia",
+  "photo": "assets/img/profile.jpg",
+  "about": "I am a Researcher at the <a href='https://smartcity.ui.ac.id/' target='_blank'>SMART CITY, Universitas Indonesia</a>, with a background in Geography and expertise in geospatial analytics. My research focuses on urban issues using geospatial tools and data-driven approaches, including GIS, street-view imagery, and other spatial datasets. I apply these methods to analyze urban environments, planning challenges, and environmental dynamics, aiming to generate insights that support more sustainable, resilient, and evidence-based urban development.",
+  "links": [
+    { "icon": "email", "label": "radityapradana20@gmail.com",    "href": "mailto:radityapradana20@gmail.com" },
+    { "icon": "email", "label": "mohammad.raditia03@ui.ac.id",   "href": "mailto:mohammad.raditia03@ui.ac.id" },
+    { "icon": "linkedin", "label": "LinkedIn",                   "href": "https://www.linkedin.com/in/mohammadraditia/" },
+    { "icon": "github",   "label": "GitHub",                     "href": "https://github.com/AditPradana36" },
+    { "icon": "rg",       "label": "ResearchGate",               "href": "https://www.researchgate.net/profile/Mohammad-Pradana-2" },
+    { "icon": "orcid",    "label": "ORCID",                      "href": "https://orcid.org/0009-0005-8836-6801" },
+    { "icon": "cv",       "label": "Curriculum Vitae",           "href": "https://drive.google.com/uc?export=download&id=1J__GBee7hjtk7IXzS5CSiTUwfStEIRk9" }
+  ]
+}

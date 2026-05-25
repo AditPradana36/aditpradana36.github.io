@@ -1,0 +1,20 @@
+[
+  {
+    "degree": "Master of Science (M.Sc.) in Geography Sciences",
+    "period": "2023 – 2025",
+    "university": "Universitas Indonesia",
+    "honor": "Summa Cum Laude",
+    "logo": "assets/img/ui.png",
+    "focus": "Human Data-Driven GIS & Street-view imagery Application for Urban Contexts and Landscape",
+    "thesis": "Spatial Modeling of Visual Element Proportion Diversity in Urban Spaces Based on Street-view and Spatial Indicators (Case Study: Kebayoran Baru and Tanah Abang)"
+  },
+  {
+    "degree": "Bachelor of Science (B.Sc.) in Geography",
+    "period": "2020 – 2023",
+    "university": "Universitas Indonesia",
+    "honor": "Cum Laude",
+    "logo": "assets/img/ui.png",
+    "focus": "GIS & Remote Sensing",
+    "thesis": "Protection Level for Fire Prone Areas in East Jakarta City"
+  }
+]

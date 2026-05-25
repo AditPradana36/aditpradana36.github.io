@@ -1,0 +1,75 @@
+{
+  "journal": [
+    {
+      "authors": "<strong>Pradana, M.R.</strong>, & Semedi, J.M.",
+      "year": "2026",
+      "title": "Indonesia's urban green spaces dilemma: Balancing law, ecology, and public space, highlighting Jakarta.",
+      "venue": "Human Geography",
+      "doi": "https://doi.org/10.1177/19427786261447854"
+    },
+    {
+      "authors": "<strong>Pradana, M.R.</strong>, Dimyati, M. & Gamal, A.",
+      "year": "2025",
+      "title": "Harmonizing street-view semantics and spatial predictors for dominant urban visual composition modelling.",
+      "venue": "Computational Urban Science, 5(50)",
+      "doi": "https://doi.org/10.1007/s43762-025-00210-z"
+    },
+    {
+      "authors": "<strong>Pradana, M.R.</strong>, Wibowo, A., & Semedi, J.M.",
+      "year": "2025",
+      "title": "Multi-Perspective Evaluation of Urban Green Views: Spatial and Street-View Data Integration in Sudirman Central Business District, Indonesia.",
+      "venue": "Geomatics and Environmental Engineering, 19(3), 91–114",
+      "doi": "https://doi.org/10.7494/geom.2025.19.3.91"
+    },
+    {
+      "authors": "<strong>Pradana, M.R.</strong>, Dimyati, M. & Semedi, J.M.",
+      "year": "2025",
+      "title": "Unveiling greenery and visual comfort: Integrating Green View Index and image segmentation in panoramic rural landscapes.",
+      "venue": "GeoScape, 19(2), 143–159",
+      "doi": "https://doi.org/10.2478/geosc-2025-0011"
+    },
+    {
+      "authors": "Gamal, A., <strong>Pradana, M.R.</strong>, Wibisono, B.H., Navitas, P., & Aryal, J.",
+      "year": "2025",
+      "title": "Thematic Fragmentation and Convergence in Urban Flood Simulation Research: A 45-Year Bibliometric Mapping.",
+      "venue": "Urban Science, 9(7), 280",
+      "doi": "https://doi.org/10.3390/urbansci9070280"
+    },
+    {
+      "authors": "<strong>Pradana, M.R.</strong>, & Dimyati, M.",
+      "year": "2024",
+      "title": "Tracking Urban Sprawl: A Systematic Review and Bibliometric Analysis of Spatio-Temporal Patterns Using Remote Sensing and GIS.",
+      "venue": "European Journal of Geography, 15(3), 190–203",
+      "doi": "https://doi.org/10.48088/ejg.m.pra.15.3.190.203"
+    },
+    {
+      "authors": "Semedi, J.M., <strong>Pradana, M.R.</strong>, Putera, D.A., & Rahatiningtyas, N.S.",
+      "year": "2024",
+      "title": "The Impedance of East Jakarta Road Network to Estimate Fire Station Service Areas.",
+      "venue": "Forum Geografi, 38(2), 280–290",
+      "doi": "https://doi.org/10.23917/forgeo.v38i2.4408"
+    }
+  ],
+  "conference": [
+    {
+      "authors": "<strong>Pradana, M.R.</strong>, & Semedi, J.M.",
+      "year": "2025",
+      "title": "Effortless coastal monitoring: Unsupervised detection of shoreline alterations due to tin mining in Bangka Belitung.",
+      "venue": "IOP Conference Series: Earth and Environmental Science, 1462(1)",
+      "doi": "https://doi.org/10.1088/1755-1315/1462/1/012004"
+    },
+    {
+      "authors": "Ash-Shidiq, I.P., Supriatna, S., Darmawan, A., Warta, Z., Molidena, E., Valla, A., Hisan, Firdaus, M.I., Zakaria, N.A., Muafiroh, S., <strong>Pradana, M.R.</strong>, & Putera, D.A.",
+      "year": "2024",
+      "title": "Biomass Stock Estimation Using Landsat 8 Imagery in Bukit Tigapuluh National Park, Riau.",
+      "venue": "IOP Conference Series: Earth and Environmental Science, 1291(1)",
+      "doi": "https://doi.org/10.1088/1755-1315/1291/1/012019"
+    }
+  ],
+  "peerReview": [
+    { "journal": "Scientific Reports – Nature Portfolio",  "logo": "assets/img/nature.png",   "abbr": "N" },
+    { "journal": "Urban Forestry & Urban Greening – Elsevier", "logo": "assets/img/elsevier.png", "abbr": "E" },
+    { "journal": "Transactions in GIS – Wiley",           "logo": "assets/img/wiley.jpg",    "abbr": "W" },
+    { "journal": "Frontiers in Marine Science – Frontiers", "logo": "assets/img/frontiers.jpg", "abbr": "F" }
+  ]
+}

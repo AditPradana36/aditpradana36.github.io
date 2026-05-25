@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Prompting Sustainability: A Comparative Analysis of How Generative AI Interprets and Visualizes Urban 'Sustainable' Streetscapes",
+    "image": "assets/img/project1.jpg",
+    "url": "https://aditpradana36.github.io/prompting_sustainability/",
+    "status": null,
+    "desc": "Examines how generative AI models interpret and visualize sustainable urban streetscapes through prompt-based analysis, evaluating how AI-generated imagery reflects principles of sustainable urban design and planning."
+  },
+  {
+    "title": "Cooling Cities, Warming Communities: Quantifying Climate Resilience in Urban Parks Through Anthropomorphic Mapping and Place Attachment",
+    "image": null,
+    "url": "https://aditpradana36.github.io/cooling_cities/",
+    "status": null,
+    "desc": "Investigates climate resilience in urban green spaces by integrating anthropomorphic mapping, place attachment analysis, and street-view imagery to understand the relationship between human perception and adaptive urban landscape design."
+  },
+  {
+    "title": "Spatial Modeling of Visual Element Proportion Diversity in Urban Spaces Based on Street-view and Spatial Indicators",
+    "image": "assets/img/project3.png",
+    "url": null,
+    "status": "Completed",
+    "desc": "Analyzed the spatial diversity of urban visual elements using street-view imagery, computer vision, and GIS-based spatial indicators to quantify greenness, openness, and enclosure, providing insights for walkability, visual comfort, and climate-responsive urban planning."
+  },
+  {
+    "title": "The Impedance of East Jakarta Road Network to Estimate Fire Station Service Areas",
+    "image": null,
+    "url": null,
+    "status": "Completed",
+    "desc": "Developed a GIS-based network analysis model to evaluate road network impedance and estimate fire station service coverage for improving urban emergency response planning."
+  }
+]
