@@ -67,6 +67,7 @@
     }
   ],
   "peerReview": [
+    { "journal": "Journal of Mountain Science – Springer Nature",  "logo": "assets/img/springernature.png",   "abbr": "N" },
     { "journal": "Scientific Reports – Nature Portfolio",  "logo": "assets/img/nature.png",   "abbr": "N" },
     { "journal": "Urban Forestry & Urban Greening – Elsevier", "logo": "assets/img/elsevier.png", "abbr": "E" },
     { "journal": "Transactions in GIS – Wiley",           "logo": "assets/img/wiley.jpg",    "abbr": "W" },
