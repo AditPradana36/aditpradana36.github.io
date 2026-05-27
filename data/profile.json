@@ -13,6 +13,6 @@
     { "icon": "github",   "label": "GitHub",                     "href": "https://github.com/AditPradana36" },
     { "icon": "rg",       "label": "ResearchGate",               "href": "https://www.researchgate.net/profile/Mohammad-Pradana-2" },
     { "icon": "orcid",    "label": "ORCID",                      "href": "https://orcid.org/0009-0005-8836-6801" },
-    { "icon": "cv",       "label": "Curriculum Vitae",           "href": "https://drive.google.com/uc?export=download&id=1J__GBee7hjtk7IXzS5CSiTUwfStEIRk9" }
+    { "icon": "cv",       "label": "Curriculum Vitae",           "href": "assets/cv/cv_raditia_27052026.pdf" }
   ]
 }
