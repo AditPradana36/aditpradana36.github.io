@@ -1,12 +1,5 @@
 [
   {
-    "period": "Oct 2024 – Present",
-    "role": "Researcher",
-    "org": "SMART CITY, Universitas Indonesia",
-    "logo": "assets/img/sc.jpg",
-    "desc": "Conduct urban and environmental research using geospatial analysis, GIS, street-view application and spatial modeling to support urban planning related studies initiatives."
-  },
-  {
     "period": "May 2025 – Present",
     "role": "Project Researcher",
     "org": "Department of Geography, Universitas Indonesia",
@@ -14,9 +7,16 @@
     "desc": "Lead a university-funded research project examining climate resilience in urban green spaces by developing analytical frameworks linking spatial environments with human perception and place attachment."
   },
   {
+    "period": "Oct 2024 – Jun 2026",
+    "role": "Researcher",
+    "org": "SMART CITY, Universitas Indonesia",
+    "logo": "assets/img/sc.jpg",
+    "desc": "Conduct urban and environmental research using geospatial analysis, GIS, street-view application and spatial modeling to support urban planning related studies initiatives."
+  },
+  {
     "period": "April 2026 – May 2026",
     "role": "Guest Teaching - Data Management and Analysis",
-    "org": "Master Program or Urban Planning, Faculty of Engineering, Universitas Indonesia",
+    "org": "Master Program of Urban Planning, Faculty of Engineering, Universitas Indonesia",
     "logo": "assets/img/ui.png",
     "desc": "Delivered technical lectures on database development, statistical analysis, and spatial analysis methods for graduate urban planning students."
   },
