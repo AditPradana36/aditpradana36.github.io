@@ -5,7 +5,7 @@
   "affiliation": "Department of Geography, Universitas Indonesia",
   "location": "Depok, Indonesia",
   "photo": "assets/img/profile.jpg",
-  "about": "I am a Project Researcher at the <a href='https://smartcity.ui.ac.id/' target='_blank'>SMART CITY, Universitas Indonesia</a>, with a background in Geography and expertise in geospatial analytics. My research focuses on urban issues using geospatial tools and data-driven approaches, including GIS, street-view imagery, and other spatial datasets. I apply these methods to analyze urban environments, planning challenges, and environmental dynamics, aiming to generate insights that support more sustainable, resilient, and evidence-based urban development.",
+  "about": "I am a Researcher at the Department of Geography, Universitas Indonesia, under the <a href='https://frontiers.ui.ac.id/sparc/' target='_blank'>Spatial Modelling & Analysis Research Cluster (SPARC)</a>. My research focuses on urban environments and spatial processes, with a particular interest in understanding cities through <b><i>street-view imagery</i></b> and <b><i>geospatial data</i></b>. Using GIS, spatial analytics, computer vision, and machine learning, I investigate urban form, streetscape characteristics, environmental quality, urban greenery, walkability, and socio-spatial inequalities. My goal is to develop data-driven approaches that contribute to more sustainable, inclusive, and evidence-based urban planning and development.",
   "links": [
     { "icon": "email", "label": "radityapradana20@gmail.com",    "href": "mailto:radityapradana20@gmail.com" },
     { "icon": "email", "label": "mohammad.raditia03@ui.ac.id",   "href": "mailto:mohammad.raditia03@ui.ac.id" },
