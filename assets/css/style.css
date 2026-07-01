@@ -248,7 +248,7 @@ section:last-child { border-bottom: none; }
   font-size: 1rem;
   color: var(--ink-2);
   line-height: 1.8;
-  max-width: 68ch;
+  max-width: ;
 }
 .about-text b, .about-text strong { color: var(--ink); font-weight: 600; }
 
