@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html lang="en" data-theme="light">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mohammad Raditia Pradana</title>
-  <link rel="stylesheet" href="assets/css/style.css" />
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Mohammad Raditia Pradana</title>
+<meta name="description" content="Mohammad Raditia Pradana — Researcher, Department of Geography, Universitas Indonesia. Urban analytics, street-view imagery, and geospatial computing." />
+<link rel="icon" href="assets/img/icon.png" />
+<link rel="stylesheet" href="assets/css/style.css" />
+<!-- Prevents a flash of the wrong theme on load -->
+<script>
+  (function () {
+    var saved = localStorage.getItem('portfolio-theme');
+    if (saved === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+  })();
+</script>
 </head>
 <body>
 
-<!-- ── NAV ──────────────────────────────────────────────── -->
+<!-- ── NAV ──────────────────────────────────────────────────────────── -->
 <nav>
   <div class="nav-left">
     <a class="nav-name" id="nav-name" href="#about"></a>
@@ -32,19 +41,18 @@
       <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
       <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
     </svg>
-    <span id="toggle-label">light</span>
+    <span id="toggle-label">dark</span>
   </button>
 </nav>
 
-<!-- ── PAGE ─────────────────────────────────────────────── -->
+<!-- ── PAGE ─────────────────────────────────────────────────────────── -->
 <div class="page">
 
   <!-- SIDEBAR -->
   <aside class="sidebar">
     <img id="sidebar-photo" class="sidebar-photo" src="" alt="" />
-    <p  id="sidebar-name"   class="sidebar-name"></p>
-    <p  id="sidebar-degree" class="sidebar-degree"></p>
-    <p  id="sidebar-role"   class="sidebar-role"></p>
+    <p id="sidebar-name" class="sidebar-name"></p>
+    <p id="sidebar-role" class="sidebar-role"></p>
     <div id="sidebar-links" class="sidebar-links"></div>
   </aside>
 
