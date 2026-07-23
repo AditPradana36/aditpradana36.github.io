@@ -84,6 +84,18 @@
                             <i class="fab fa-orcid"></i>
                         </a>
                         {% endif %}
+
+                        {% if site.data.profile.researchgate %}
+                        <a class="px-1 no-break" target="_blank" href="https://www.researchgate.net/profile/{{ site.data.profile.researchgate }}">
+                            <i class="fab fa-researchgate"></i>
+                        </a>
+                        {% endif %}
+
+                        {% if site.data.profile.scopus %}
+                        <a class="px-1 no-break" target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId={{ site.data.profile.scopus }}">
+                            <i class="fas fa-book"></i>
+                        </a>
+                        {% endif %}
                     </div>
                 </div>
             </div>
