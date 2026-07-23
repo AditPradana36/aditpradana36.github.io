@@ -1,61 +1,97 @@
-primary_name: "Your Name"
+primary_name: "Mohammad Raditia Pradana"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Pradana, M. R."
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Researcher
+- name: Spatial Modeling & Analysis Research Cluster (<a href="https://frontiers.ui.ac.id/sparc/" target="_blank">SPARC</a>), Department of Geography, Universitas Indonesia
+  logo: /assets/images/badges/ui.png  # Logo is optional
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+email: "mohammad.raditia03@ui.ac.id"
+cv_link: assets/cv/cv_raditia_13072026.pdf
+gscholar: gPmOhqMAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: AditPradana36
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+linkedin: mohammadraditia
+orcid: 0009-0005-8836-6801
+researchgate: Mohammad-Raditia-Pradana
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I spend most of my time staring at street-view images, trying to figure out what they can tell us about
+    cities. I work as a researcher at <a href="https://frontiers.ui.ac.id/sparc/" target="_blank">SPARC</a>, Department of Geography, Universitas Indonesia, somewhere between
+    computer vision and old-fashioned urban geography, with a soft spot for greenery, sustainability, and the
+    small visual details that make a street feel like a place.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I studied Geography at Universitas Indonesia for both my B.Sc. and M.Sc., focusing on urban context
+    research.
+    I've had the chance to teach a bit, mentor some undergraduate students, and write papers on things
+    like green space equity and street-view methods. Most days I'm still learning as I go, which I think is
+    the fun part.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: Universitas Indonesia
+  logo: /assets/images/badges/ui.png
+  position: M.Sc. in Geography Sciences [Fast-Track Program] — GPA 4.00/4.00, Summa Cum Laude
+  date: Aug. 2024 - Jul. 2025
+- name: Universitas Indonesia
+  logo: /assets/images/badges/ui.png
+  position: B.Sc. in Geography [Fast-Track Program] — GPA 3.85/4.00, Cum Laude
+  date: Aug. 2020 - Jul. 2024
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: SPARC, Dept. of Geography, Universitas Indonesia
+  logo: /assets/images/badges/ui.png
+  position: Research Assistant
+  date: May 2025 - Present
+- name: SMART CITY Universitas Indonesia
+  logo: /assets/images/badges/smartcity_ui.jpg
+  position: Full-time Researcher & Assistant Editor of Smart City Journal
+  date: Oct. 2024 - Jun. 2026
+- name: SMART CITY Universitas Indonesia
+  logo: /assets/images/badges/smartcity_ui.jpg
+  position: Part-time Research Assistant
+  date: Jun. 2024 - Oct. 2024
+- name: Department of Geography, Universitas Indonesia
+  logo: /assets/images/badges/ui.png
+  position: Student Researcher
+  date: Jun. 2023 - Oct. 2024
+- name: Center for Social and Environmental Management Research (PPSML), Universitas Indonesia
+  logo: /assets/images/badges/ppsml_ui.png
+  position: Cartographer - SEA, West Bangka Regency
+  date: Mar. 2025 - Dec. 2025
+- name: Center for Applied Geography Research (PPGT), Universitas Indonesia
+  logo: /assets/images/badges/ui.png
+  position: Cartographer - Detailed Spatial Planning, Baradatu District
+  date: May 2024 - Aug. 2024
+- name: Center for Social and Environmental Management Research (PPSML), Universitas Indonesia
+  logo: /assets/images/badges/ppsml_ui.png
+  position: Cartographer - SEA, Bangka Belitung Islands Province
+  date: Mar. 2024 - Oct. 2024
+- name: Center for Applied Geography Research (PPGT), Universitas Indonesia
+  logo: /assets/images/badges/ui.png
+  position: Cartographer - Regional Spatial Planning, Hulu Sungai Tengah Regency
+  date: Jan. 2023 - Apr. 2023
 
 awards:
-- name: Award Name 2
+- name: Ranked 1st in Cohort, M.Sc. Geography - Summa Cum Laude (Faculty Level)
+  date: 2025
+- name: Ranked 1st in Cohort, B.Sc. Geography - Cum Laude (Department Level)
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Fast-Track Program Candidacy, B.Sc. - M.Sc. Geography
+  date: 2024
+- name: Best Presenter Award, ICoAGPG 2024
+  date: 2024
+- name: 2nd Place, National Economics Paper Competition (IMIE FEB UKSW)
+  date: 2022
