@@ -1,11 +1,12 @@
 ---
-title: "Prompting Sustainability: A Comparative Analysis of How Generative AI Interprets and Visualizes Urban ‘Sustainable’ Streetscapes "
-date: 2026-04-29 00:01:00 +0800
+title: "Prompting Sustainability: A Comparative Analysis of How Generative AI Interprets and Visualizes Urban 'Sustainable' Streetscapes"
+date: 2026-01-01 00:01:00 +0800
 selected: true
+status: Ongoing
 
 description: >-
-  XXXX
-# cover: /assets/images/covers/2026-auto-eco.png
+  Examines how generative AI models interpret and visualize sustainable urban streetscapes through prompt-based analysis, evaluating how AI-generated imagery reflects principles of sustainable urban design and planning.
+cover: /assets/images/covers/prompting_sust_project.png
 links:
-  Project Page: https://aditpradana36.github.io/prompting_sustainability/
+  Website: https://aditpradana36.github.io/prompting_sustainability/
 ---
