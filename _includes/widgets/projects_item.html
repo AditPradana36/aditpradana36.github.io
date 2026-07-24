@@ -20,21 +20,54 @@
         <div class="col-md-7 col-xl-8 p-3 pl-md-0">
 
             <!-- Title with Code Link -->
+            {% assign code_url = nil %}
+            {% for link in item.links %}
+                {% if link[0] == "Code" %}
+                    {% assign code_url = link[1] %}
+                {% endif %}
+            {% endfor %}
+
             <h4 class="mt-0 mb-1 font-weight-bold">
-                {% for link in item.links %}
-                    {% if link[0] == "Code" %}
-                        <a target="_blank" href="{{ link[1] }}">{{ item.title }}</a>
-                    {% endif %}
-                {% endfor %}
+                {% if code_url %}
+                    <a target="_blank" href="{{ code_url }}">{{ item.title }}</a>
+                {% else %}
+                    {{ item.title }}
+                {% endif %}
             </h4>
 
             <!-- Increased font size for the description -->
-            <p class="mt-0 mb-2 text-dark" style="font-size: 16px;">{{ item.description }}</p>
+            <p class="mt-0 mb-2 text-dark" style="font-size: 16px;">
+                {{ item.description }}
+            </p>
+
+            <!-- Status Badge -->
+            {% if item.status %}
+                {% case item.status %}
+                    {% when "Completed" %}
+                        {% assign badge_class = "badge-success" %}
+                    {% when "Ongoing" %}
+                        {% assign badge_class = "badge-primary" %}
+                    {% when "In Review" %}
+                        {% assign badge_class = "badge-warning" %}
+                    {% when "Planned" %}
+                        {% assign badge_class = "badge-secondary" %}
+                    {% else %}
+                        {% assign badge_class = "badge-light" %}
+                {% endcase %}
+
+                <div class="mb-2">
+                    <span class="badge {{ badge_class }}">{{ item.status }}</span>
+                </div>
+            {% endif %}
 
             <!-- Non-Code links -->
             {% for link in item.links %}
                 {% unless link[0] == "Code" %}
-                    <a class="btn btn-sm btn-outline-primary mr-1 mb-1" target="_blank" href="{{ link[1] }}">{{ link[0] }}</a>
+                    <a class="btn btn-sm btn-outline-primary mr-1 mb-1"
+                    target="_blank"
+                    href="{{ link[1] }}">
+                        {{ link[0] }}
+                    </a>
                 {% endunless %}
             {% endfor %}
         </div>
@@ -54,12 +87,19 @@
     <div class="w-100" style="background-color: rgba(255,255,255,0.9); padding: 15px;">
 
         <!-- Title with Code Link -->
+        {% assign code_url = nil %}
+        {% for link in item.links %}
+            {% if link[0] == "Code" %}
+                {% assign code_url = link[1] %}
+            {% endif %}
+        {% endfor %}
+
         <h4 class="mt-0 mb-1 font-weight-bold">
-            {% for link in item.links %}
-                {% if link[0] == "Code" %}
-                    <a target="_blank" href="{{ link[1] }}">{{ item.title }}</a>
-                {% endif %}
-            {% endfor %}
+            {% if code_url %}
+                <a target="_blank" href="{{ code_url }}">{{ item.title }}</a>
+            {% else %}
+                {{ item.title }}
+            {% endif %}
         </h4>
 
         <!-- Increased font size for the description -->

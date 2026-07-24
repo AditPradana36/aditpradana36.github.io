@@ -6,6 +6,7 @@ status: Completed
 
 description: >-
   Developed a GIS-based network analysis model to evaluate road network impedance and estimate fire station service coverage for improving urban emergency response planning.
-# cover: /assets/images/covers/2024-forgeo-impedancefire.png
+cover: /assets/images/covers/2024-firestationimpedance.png
 links:
+  Paper: https://journals2.ums.ac.id/index.php/fg/article/view/4408
 ---

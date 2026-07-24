@@ -48,6 +48,17 @@ h1, h2, h3, h4, h5, h6,
     -webkit-backdrop-filter: blur(16px);
 }
 
+.publication-cover {
+    height: 340px;   /* sebelumnya 230px */
+    object-fit: cover;
+}
+
+@media (max-width: 767px) {
+    .publication-cover {
+        height: 240px;   /* sebelumnya 210px */
+    }
+}
+
 .inline-badge {
     height: 16px;
     vertical-align: -10%;

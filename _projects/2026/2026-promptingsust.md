@@ -8,5 +8,5 @@ description: >-
   Examines how generative AI models interpret and visualize sustainable urban streetscapes through prompt-based analysis, evaluating how AI-generated imagery reflects principles of sustainable urban design and planning.
 cover: /assets/images/covers/2026-promptingsust.png
 links:
-  Website: https://aditpradana36.github.io/prompting_sustainability/
+  Project page: https://aditpradana36.github.io/prompting_sustainability/
 ---

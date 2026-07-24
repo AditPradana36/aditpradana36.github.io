@@ -6,7 +6,7 @@ status: Ongoing
 
 description: >-
   Investigates climate resilience in urban green spaces by integrating anthropomorphic mapping, place attachment analysis, and street-view imagery to understand the relationship between human perception and adaptive urban landscape design.
-# cover: /assets/images/covers/cooling_cities_project.png
+cover: /assets/images/covers/2026-coolingcities.png
 links:
-  Website: https://aditpradana36.github.io/cooling_cities/
+  Project page: https://aditpradana36.github.io/cooling_cities/
 ---
