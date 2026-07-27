@@ -9,7 +9,7 @@ positions:
 
 
 email: "mohammad.raditia03@ui.ac.id"
-cv_link: assets/cv/cv_raditia_13072026.pdf
+cv_link: assets/cv/cv_raditia_27072026.pdf
 gscholar: gPmOhqMAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: AditPradana36
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -51,38 +51,38 @@ education:
   date: Aug. 2020 - Jul. 2024
 
 experience:
-- name: SPARC, Dept. of Geography, Universitas Indonesia
-  logo: /assets/images/badges/ui.png
-  position: Research Assistant
-  date: May 2025 - Present
-- name: SMART CITY Universitas Indonesia
-  logo: /assets/images/badges/smartcity_ui.jpg
-  position: Full-time Researcher & Assistant Editor of Smart City Journal
-  date: Oct. 2024 - Jun. 2026
-- name: SMART CITY Universitas Indonesia
-  logo: /assets/images/badges/smartcity_ui.jpg
-  position: Part-time Research Assistant
-  date: Jun. 2024 - Oct. 2024
-- name: Department of Geography, Universitas Indonesia
-  logo: /assets/images/badges/ui.png
-  position: Student Researcher
-  date: Jun. 2023 - Oct. 2024
-- name: Center for Social and Environmental Management Research (PPSML), Universitas Indonesia
-  logo: /assets/images/badges/ppsml_ui.png
-  position: Cartographer - SEA, West Bangka Regency
-  date: Mar. 2025 - Dec. 2025
-- name: Center for Applied Geography Research (PPGT), Universitas Indonesia
-  logo: /assets/images/badges/ui.png
-  position: Cartographer - Detailed Spatial Planning, Baradatu District
-  date: May 2024 - Aug. 2024
-- name: Center for Social and Environmental Management Research (PPSML), Universitas Indonesia
-  logo: /assets/images/badges/ppsml_ui.png
-  position: Cartographer - SEA, Bangka Belitung Islands Province
-  date: Mar. 2024 - Oct. 2024
-- name: Center for Applied Geography Research (PPGT), Universitas Indonesia
-  logo: /assets/images/badges/ui.png
-  position: Cartographer - Regional Spatial Planning, Hulu Sungai Tengah Regency
-  date: Jan. 2023 - Apr. 2023
+  - name: SPARC, Dept. of Geography, Universitas Indonesia
+    logo: /assets/images/badges/ui.png
+    position: Research Assistant
+    date: May 2025 - Present
+  - name: Center for Social and Environmental Management Research (PPSML), Universitas Indonesia
+    logo: /assets/images/badges/ppsml_ui.png
+    position: Cartographer - SEA, West Bangka Regency
+    date: Mar. 2025 - Dec. 2025
+  - name: SMART CITY Universitas Indonesia
+    logo: /assets/images/badges/smartcity_ui.jpg
+    position: Full-time Researcher & Assistant Editor of Smart City Journal
+    date: Oct. 2024 - Jun. 2026
+  - name: SMART CITY Universitas Indonesia
+    logo: /assets/images/badges/smartcity_ui.jpg
+    position: Part-time Research Assistant
+    date: Jun. 2024 - Oct. 2024
+  - name: Center for Applied Geography Research (PPGT), Universitas Indonesia
+    logo: /assets/images/badges/ui.png
+    position: Cartographer - Detailed Spatial Planning, Baradatu District
+    date: May 2024 - Aug. 2024
+  - name: Center for Social and Environmental Management Research (PPSML), Universitas Indonesia
+    logo: /assets/images/badges/ppsml_ui.png
+    position: Cartographer - SEA, Bangka Belitung Islands Province
+    date: Mar. 2024 - Oct. 2024
+  - name: Department of Geography, Universitas Indonesia
+    logo: /assets/images/badges/ui.png
+    position: Student Researcher
+    date: Jun. 2023 - Oct. 2024
+  - name: Center for Applied Geography Research (PPGT), Universitas Indonesia
+    logo: /assets/images/badges/ui.png
+    position: Cartographer - Regional Spatial Planning, Hulu Sungai Tengah Regency
+    date: Jan. 2023 - Apr. 2023
 
 awards:
 - name: Ranked 1st in Cohort, M.Sc. Geography - Summa Cum Laude (Faculty Level)
