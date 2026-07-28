@@ -43,11 +43,13 @@ portrait_url: /assets/images/photos/portrait.jpg
 education:
 - name: Universitas Indonesia
   logo: /assets/images/badges/ui.png
-  position: M.Sc. in Geography Sciences [Fast-Track Program] — GPA 4.00/4.00, Summa Cum Laude
+  position: M.Sc. in Geography [Fast-Track Program] — GPA 4.00/4.00, Summa Cum Laude
+  advisors: Prof. M. Dimyati & Dr. Ahmad Gamal
   date: Aug. 2024 - Jul. 2025
 - name: Universitas Indonesia
   logo: /assets/images/badges/ui.png
   position: B.Sc. in Geography [Fast-Track Program] — GPA 3.85/4.00, Cum Laude
+  advisors: Dr. Adi Wibowo & Jarot Mulyo Semedi
   date: Aug. 2020 - Jul. 2024
 
 experience:
