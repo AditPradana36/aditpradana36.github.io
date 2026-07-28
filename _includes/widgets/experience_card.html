@@ -13,9 +13,22 @@
                                     <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
                                     <div class="media-body">
                                         <div>{{ item.name }}</div>
-                                        <div class="small">{{ item.dept }}</div>
+                                        {% if item.degree %}<div>{{ item.degree }}</div>{% endif %}
+                                        {% if item.honors %}<div class="small">{{ item.honors }}</div>{% endif %}
                                         <div class="small d-flex">
-                                            <div>{{ item.position }}</div>
+                                            <div>
+                                                {% if item.advisors %}
+                                                    <strong>Advisor{% if item.advisors.size > 1 %}s{% endif %}:</strong>
+                                                    {% for advisor in item.advisors %}
+                                                        {% if advisor.url %}
+                                                        <a href="{{ advisor.url }}" target="_blank" rel="noopener">{{ advisor.name }}</a>
+                                                        {% else %}
+                                                        {{ advisor.name }}
+                                                        {% endif %}
+                                                        {% unless forloop.last %}, {% endunless %}
+                                                    {% endfor %}
+                                                {% endif %}
+                                            </div>
                                             <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
                                         </div>
                                     </div>
@@ -87,6 +100,61 @@
 
                 </div>
 
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row mt-3">
+    <div class="col">
+        <div class="card border-0 shadow-sm bg-white">
+            <div class="card-body p-4">
+                <div class="row" data-masonry='{"percentPosition": true }'>
+
+                    {% if site.data.profile.teaching %}
+                    <div class="col-lg-6">
+                        <div class="mx-2 my-1">
+                            <h6>Teaching</h6>
+                            <ul class="list-unstyled mb-1">
+                                {% for item in site.data.profile.teaching %}
+                                <li class="media mb-1">
+                                    <img src="{{ item.logo | relative_url }}" alt="{{ item.name }}" style="width: 18px;" class="mr-1 mt-1">
+                                    <div class="media-body">
+                                        <div>{{ item.name }}</div>
+                                        <div class="small d-flex">
+                                            <div>{{ item.dept }}</div>
+                                            <div class="mt-auto ml-auto no-break"><em>{{ item.date }}</em></div>
+                                        </div>
+                                        {% if item.description %}<div class="small">{{ item.description }}</div>{% endif %}
+                                    </div>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                    {% endif %}
+
+                    {% if site.data.profile.presentations %}
+                    <div class="col-lg-6">
+                        <div class="mx-2 my-1">
+                            <h6>Presentations/Talks</h6>
+                            <ul class="list small pl-3 mb-1">
+                                {% for item in site.data.profile.presentations %}
+                                <li class="mb-2">
+                                    <div class="d-flex">
+                                        <div>{{ item.name }}{% if item.award %} 🏆{% endif %}</div>
+                                        <div class="ml-auto mt-auto no-break"><em>{{ item.date }}</em></div>
+                                    </div>
+                                    {% if item.title %}<div><em>{{ item.title }}</em>{% if item.award %} <strong>[{{ item.award }}]</strong>{% endif %}</div>{% endif %}
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                    {% endif %}
+
+                </div>
             </div>
         </div>
     </div>

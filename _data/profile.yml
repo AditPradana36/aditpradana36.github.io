@@ -19,7 +19,7 @@ github: AditPradana36
 linkedin: mohammadraditia
 orcid: 0009-0005-8836-6801
 researchgate: Mohammad-Pradana-2
-scopus: 58874909300  # ganti dengan Scopus Author ID kamu (angka)
+scopus: 58874909300  # scopus id
 
 short_bio_text_justify: false
 short_bio: >-
@@ -30,10 +30,19 @@ short_bio: >-
     small visual details that make a street feel like a place.
   </p>
   <p>
-    I studied Geography at Universitas Indonesia for both my <u>B.Sc. and M.Sc. (Fast-track program)</u>, focusing on <strong>urban context</strong>
+    I studied Geography at Universitas Indonesia for both my <u>B.Sc. and M.Sc. (fast-track program)</u>, focusing on <strong>urban context</strong>
     research</strong>. I've had the chance to teach a bit, mentor some undergraduate students, and write papers on things
     like green space equity and street-view applications in urban context research. Most days I'm still learning as I go, which I think is
     the fun part.
+  </p>
+  <p>
+    These days, I'm chasing a fun question: <u>when you ask AI to make a street "more sustainable," what does it
+    actually change?</u> My <a href="https://aditpradana36.github.io/prompting_sustainability/" target="_blank">latest project</a>
+    compares real streets in Jakarta, Melbourne, and Singapore against AI-reimagined versions of themselves — turns
+    out the models have some strong (<strong>and surprisingly similar</strong>) opinions about what "sustainable" should look like,
+    no matter which city you're in (at least from those 3 cities). Alongside that, I'm also working on
+    <a href="https://aditpradana36.github.io/cooling_cities/" target="_blank">Cooling Cities, Warming Communities</a>,
+    which looks at how green Jakarta's parks really are, and how much people actually feel that coolness in daily life not only presented by maps, but the experience it self.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -41,16 +50,26 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Universitas Indonesia
-  logo: /assets/images/badges/ui.png
-  position: M.Sc. in Geography [Fast-Track Program] — GPA 4.00/4.00, Summa Cum Laude
-  advisors: Prof. M. Dimyati & Dr. Ahmad Gamal
-  date: Aug. 2024 - Jul. 2025
-- name: Universitas Indonesia
-  logo: /assets/images/badges/ui.png
-  position: B.Sc. in Geography [Fast-Track Program] — GPA 3.85/4.00, Cum Laude
-  advisors: Dr. Adi Wibowo & Jarot Mulyo Semedi
-  date: Aug. 2020 - Jul. 2024
+  - logo: /assets/images/badges/ui.png
+    name: Universitas Indonesia
+    date: Aug. 2024 – Jul.2025
+    degree: "M.Sc. in Geography Sciences [Fast-Track Program]"
+    honors: "GPA 4.00/4.00, Summa Cum Laude"
+    advisors: 
+    - name: Prof. M. Dimyati
+      url: https://scholar.google.co.id/citations?user=HFfS9KcAAAAJ&hl=id
+    - name: Dr. Ahmad Gamal
+      url: https://scholar.google.com/citations?user=yKVnshsAAAAJ&hl=en&oi=ao
+  - logo: /assets/images/badges/ui.png
+    name: Universitas Indonesia
+    date: Aug. 2020 – Jul.2024
+    degree: "B.Sc. in Geography [Fast-Track Program]"
+    honors: "GPA 3.85/4.00, Cum Laude"
+    advisors: 
+    - name: Dr. Adi Wibowo
+      url: https://scholar.google.com/citations?user=K1m_gQUAAAAJ&hl=en
+    - name: Jarot Mulyo Semedi
+      url: https://scholar.google.com/citations?user=CapZeTwAAAAJ&hl=en
 
 experience:
   - name: SPARC, Dept. of Geography, Universitas Indonesia
@@ -115,3 +134,30 @@ peerreview:
     date: 2025
   - name: Transactions in GIS, Wiley
     date: 2025
+
+teaching:
+  - logo: /assets/images/badges/ui.png
+    name: "Guest Teaching — Data Management and Analysis"
+    dept: "Master Programme of Urban Planning, Universitas Indonesia"
+    # position: "Delivered lectures on database development, statistical analysis, and spatial analysis for graduate urban planning students."
+    date: Apr. – May 2026
+  - logo: /assets/images/badges/ui.png
+    name: "Teaching Assistant — Introduction of GIS & Remote Sensing"
+    dept: "Department of Geography, Universitas Indonesia"
+    # position: "Led practical sessions for 30+ undergraduates across six GIS and remote sensing modules."
+    date: Jun. – Aug. 2024
+
+presentations:
+  - name: "The 2nd International Conference on Anthropocene, Global Environmental Change & Powerful Geography (Surakarta, Indonesia)"
+    title: "Effortless Shoreline Detection in Tin-Mining Areas."
+    award: "Best Presenter Award"
+    date: Aug. 2024
+  - name: "The 1st Aceh International Conference in Geography & Environmental Education (Aceh, Indonesia)"
+    title: "The Impedance of East Jakarta Road Network to Estimate Fire Station Service Areas."
+    date: Nov. 2023
+  - name: "The 2nd International Conference of Science & Applied Geography (Depok, Indonesia)"
+    title: "Biomass Stock Estimation Using Landsat 8 Imagery in Bukit Tigapuluh National Park."
+    date: Nov. 2022
+  - name: "National Economic Paper Competition (Salatiga, Indonesia)"
+    # title: "Biomass Stock Estimation Using Landsat 8 Imagery in Bukit Tigapuluh National Park."
+    date: 2022
