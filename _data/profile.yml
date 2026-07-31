@@ -71,23 +71,30 @@ education:
     - name: Jarot Mulyo Semedi
       url: https://scholar.google.com/citations?user=CapZeTwAAAAJ&hl=en
 
-experience:
+researchexperience:
   - name: SPARC, Dept. of Geography, Universitas Indonesia
     logo: /assets/images/badges/ui.png
     position: Research Assistant
     date: May 2025 - Present
-  - name: Center for Social and Environmental Management Research (PPSML), Universitas Indonesia
-    logo: /assets/images/badges/ppsml_ui.png
-    position: Cartographer - SEA, West Bangka Regency
-    date: Mar. 2025 - Dec. 2025
   - name: SMART CITY Universitas Indonesia
     logo: /assets/images/badges/smartcity_ui.jpg
-    position: Full-time Researcher & Assistant Editor of Smart City Journal
+    position: Full-time Researcher & Assistant Editor of <a href="https://scholarhub.ui.ac.id/smartcity/" target="_blank">Smart City Journal</a>
     date: Oct. 2024 - Jun. 2026
   - name: SMART CITY Universitas Indonesia
     logo: /assets/images/badges/smartcity_ui.jpg
     position: Part-time Research Assistant
     date: Jun. 2024 - Oct. 2024
+  - name: Department of Geography, Universitas Indonesia
+    logo: /assets/images/badges/ui.png
+    position: Student Researcher
+    date: Jun. 2023 - Oct. 2024
+
+
+professionalexperience:
+  - name: Center for Social and Environmental Management Research (PPSML), Universitas Indonesia
+    logo: /assets/images/badges/ppsml_ui.png
+    position: Cartographer - SEA, West Bangka Regency
+    date: Mar. 2025 - Dec. 2025
   - name: Center for Applied Geography Research (PPGT), Universitas Indonesia
     logo: /assets/images/badges/ui.png
     position: Cartographer - Detailed Spatial Planning, Baradatu District
@@ -96,10 +103,6 @@ experience:
     logo: /assets/images/badges/ppsml_ui.png
     position: Cartographer - SEA, Bangka Belitung Islands Province
     date: Mar. 2024 - Oct. 2024
-  - name: Department of Geography, Universitas Indonesia
-    logo: /assets/images/badges/ui.png
-    position: Student Researcher
-    date: Jun. 2023 - Oct. 2024
   - name: Center for Applied Geography Research (PPGT), Universitas Indonesia
     logo: /assets/images/badges/ui.png
     position: Cartographer - Regional Spatial Planning, Hulu Sungai Tengah Regency

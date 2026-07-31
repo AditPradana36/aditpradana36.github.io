@@ -102,3 +102,37 @@ div.lazy {
 .email-text {
     font-family: Source Code Pro, monospace;
 }
+
+.profile-grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Desktop: two solid columns side by side, natural order within each */
+@media (min-width: 992px) {
+    .profile-col-left,
+    .profile-col-right {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* Mobile: break the column wrappers into a single flex context
+   so individual sections can be reordered freely, interleaved
+   across what were the left/right columns on desktop */
+@media (max-width: 991.98px) {
+    .profile-grid {
+        display: flex;
+        flex-direction: column;
+    }
+    .profile-col-left,
+    .profile-col-right {
+        display: contents; /* unwraps the column div, exposing children directly to .profile-grid's flex context */
+    }
+
+    .order-education     { order: 1; }
+    .order-research        { order: 2; }
+    .order-professional   { order: 3; }
+    .order-awards         { order: 4; }
+    .order-peerreview      { order: 5; }
+}
