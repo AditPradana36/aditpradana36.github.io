@@ -74,7 +74,7 @@ education:
 researchexperience:
   - name: SPARC, Dept. of Geography, Universitas Indonesia
     logo: /assets/images/badges/ui.png
-    position: Research Assistant
+    position: Research Assistant [<a href="https://aditpradana36.github.io/cooling_cities/" target="_blank">Ongoing project</a>]
     date: May 2025 - Present
   - name: SMART CITY Universitas Indonesia
     logo: /assets/images/badges/smartcity_ui.jpg
@@ -86,7 +86,7 @@ researchexperience:
     date: Jun. 2024 - Oct. 2024
   - name: Department of Geography, Universitas Indonesia
     logo: /assets/images/badges/ui.png
-    position: Undergraduate Researcher
+    position: Student Researcher
     date: Jun. 2023 - Oct. 2024
 
 professionalexperience:
