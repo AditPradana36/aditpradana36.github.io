@@ -1,6 +1,6 @@
 ---
 layout: blog_post
-title: 'Acknowledgement'
+title: 'Template Acknowledgement'
 date: 2026-03-17
 tags:
   - Blog

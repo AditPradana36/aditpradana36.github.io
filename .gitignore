@@ -8,3 +8,6 @@ vendor/
 Gemfile.lock
 
 .DS_Store
+_posts/2024-01-01-blog-post-1.md
+_posts/2025-01-01-blog-post-2.md
+_posts/2026-03-17-acknowledgement.md
